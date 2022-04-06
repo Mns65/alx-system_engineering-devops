@@ -1,2 +1,2 @@
 #!/bin/bash
-less | head -2 | tail -2 iacta
+less | head -3 | tail -n +3 iacta
